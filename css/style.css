@@ -1,0 +1,27 @@
+.dog {
+    background-color: lightgreen;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+    padding: 2rem;
+}
+
+img {
+    width: 100%; /*anchura relativa al div */
+}
+
+.moreInfo {
+    display: none;
+}
+
+.button {
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    outline: none;
+    padding: 5px;
+}
